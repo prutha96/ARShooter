@@ -1,0 +1,22 @@
+# Blender MTL File: 'coca-cola.blend'
+# Material Count: 2
+
+newmtl coca-cola
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ..\\coca-cola-zero.jpg
+
+newmtl coca-cola_coca-cola-zero.jpg
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd ..\coca-cola-zero.jpg
